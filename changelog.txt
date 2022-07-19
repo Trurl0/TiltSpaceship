@@ -1,0 +1,70 @@
+v0.9
+Added achievement pop-ups
+New ability missiles
+New ability black hole
+New ability decoy
+New ability repairs
+Removed secondary guns
+New main gun cross
+Added splash damage to big gun
+Carefully rebalanced difficulty
+Added color auras to abilities
+Boss powerups now also give an ability
+Added vibration
+Added fishing
+bugfixes and optimizations
+
+v0.8
+Added difficulty levels and endless mode
+Boss powerup to increase ability slots
+New succumbed enemies for phase 3
+New alternative blob bosses
+New ability supershield
+Rebalanced bosses and progression
+Added achievements
+Changed backgrounds to something legal
+Music selected according to level speed
+Fixed bad recorded song
+Patched damage through shields bug
+
+v0.7
+New blobs
+New minibosses
+New final boss
+New zap ability
+New ray gun
+New gun-mine scenario
+New gun-hull scenario
+Added configurable ability slots. Fixed to 2 for initial testing. ?Powerup?
+Boosted gun speed during slow-motion
+Improved auto-aim accuracy (accout for target velocity and distance)
+Added warning light to drones with abilities
+Added statistics (old save compatible, first step for achievements)
+New song
+changed some bugs for others
+
+v0.6
+New wormhole and slow-mo abilities
+New alternative miniboss
+Rebalanced alien boss in the opposite direction
+New drone with gravity push
+Rebalanced powerup spawn
+Invisibility no longer avoids asteroids or bullets
+
+v0.5
+Made second boss less boring
+Tweaked gravity powers
+
+v0.4
+Added gravity powers.
+Buffed blobs and second boss.
+Added savefile test (times played).
+
+v0.3
+Menu and gameplay adjustments, bugfixes
+
+v0.2
+Added minibosses, moved score text a bit, fixed errors after unity upgrade
+
+v0.1
+First working version.
